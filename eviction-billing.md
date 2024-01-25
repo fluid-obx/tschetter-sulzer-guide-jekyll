@@ -1,4 +1,4 @@
-##Eviction Fee Statuses  
+## Eviction Fee Statuses  
   
 1: Do not auto-run eviction  
 5: Missing Fee 2 & 3  
