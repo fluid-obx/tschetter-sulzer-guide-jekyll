@@ -1,3 +1,10 @@
+---
+layout: default
+title: Eviction Billing
+nav_order: 2
+permalink: /eviction-billing
+---
+
 ## Eviction Fee Status 
   
 1: Do not auto-run eviction  
