@@ -10,6 +10,17 @@ permalink: /contacts
 - No processes are making sure "Mail" is in the Status field.
 - The other use of that field is during website deactivations, it will mark that field as "Unsubscribe" if they go ineligible and "Mail" if they go eligible again.
 
+## Subsidies
+
+HUD Model Lease
+: Can't charge legal fees, Requires Exhibit A
+
+Demand Copy Required
+: Requirement for landlord to send a copy of the demand to the Housing Authority
+
+Mixed Subsidized
+: Both conventional and subsidized units
+
 ## Web Login Status
 
 The small text to the right bottom of the Web Login field should show 7 possible options:  
@@ -24,14 +35,3 @@ The small text to the right bottom of the Web Login field should show 7 possible
 1.  **Suspended** has Disable Web Access checked
 1.  **Blocked** has Disable Web Access checked and Disable Automatic Renewals checked
 1.  **Reactivate** means they are Suspended but now Eligible. It will rarely show as the person will be reactivated at the next nightly run and usually gets that status at the start of the run due to a new eviction.
-
-### Subsidies
-
-HUD Model Lease
-: Can't charge legal fees, Requires Exhibit A
-
-Demand Copy Required
-: Requirement for landlord to send a copy of the demand to the Housing Authority
-
-Mixed Subsidized
-: Both conventional and subsidized units
