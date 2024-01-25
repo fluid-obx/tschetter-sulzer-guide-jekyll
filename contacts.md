@@ -8,11 +8,8 @@ permalink: /contacts
 
 The small text to the right bottom of the Web Login field should show 7 possible options:  
 
-Active, Exempt or Deactivate
-: person can login
-
-No Login, Suspended, Blocked or Reactivate
-: person can not login
+| Active, Exempt or Deactivate | person can login |
+| No Login, Suspended, Blocked or Reactivate | person can **not** login |
 
 1.  **Active** means there's a Web Login 
 1.  **Exempt** means there's a Web Login and Exempt from Health Requirements is checked
